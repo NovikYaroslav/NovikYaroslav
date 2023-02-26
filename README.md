@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Novik Yaroslav
-- 👀 I’m interested in games, hitech and philosophy.
-- 🌱 I’m currently learning Java Script
+- 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
 - 💞️ I’m looking to collaborate on new projects
+- 👀 I’m interested in games, hitech and philosophy.
 - 📫 How to reach me: kodzima89@gmail.com; 052-3090149
 
 <!---
