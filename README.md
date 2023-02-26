@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Novik Yaroslav
 - 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on new projects and work with new teams.
 - 👀 I’m interested in games, hitech and philosophy.
-- 📫 How to reach me: kodzima89@gmail.com; 052-3090149
+- 📫 You may reach me by email: yaroslavnowik@yandex.ru or by telephone number: 052-3090149
+- 
 
 <!---
 NovikYaroslav/NovikYaroslav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
