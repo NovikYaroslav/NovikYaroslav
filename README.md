@@ -2,9 +2,8 @@
 - 👋 Hi, I’m @Novik Yaroslav
 - 💞️ I’m looking to collaborate on new projects and work with new teams.
 - 👀 I’m interested in games, hitech and philosophy.
-- 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
 
-# Technologies:
+# My current stack:
 
 ![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/html-5.svg)
 ![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/css-3.svg)
