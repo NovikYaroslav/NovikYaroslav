@@ -10,6 +10,7 @@ Technologies:
 ![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/css-3.svg)
 ![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/react.svg)
 ![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/typescript.svg)
+![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/node-js.svg)
 
 My contacts: 
 -  :mailbox:: yaroslavnowik@yandex.ru
