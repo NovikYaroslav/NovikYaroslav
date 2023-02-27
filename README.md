@@ -1,7 +1,10 @@
+About me:
 - 👋 Hi, I’m @Novik Yaroslav
-- 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
 - 💞️ I’m looking to collaborate on new projects and work with new teams.
 - 👀 I’m interested in games, hitech and philosophy.
+
+Technologies:
+- 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
 
 My contacts: 
 -  :mailbox:: yaroslavnowik@yandex.ru
