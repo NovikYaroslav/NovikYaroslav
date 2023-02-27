@@ -2,7 +2,8 @@
 - 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
 - 💞️ I’m looking to collaborate on new projects and work with new teams.
 - 👀 I’m interested in games, hitech and philosophy.
--  My contacts: 
+
+My contacts: 
 -  :mailbox:: yaroslavnowik@yandex.ru
 -  :calling:: https://t.me/iKodzima
 -  :pencil:: https://www.linkedin.com/in/yaroslav-novik
