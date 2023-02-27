@@ -14,7 +14,7 @@ Technologies:
 ![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/node-js.svg)
 
 My contacts: 
--  :mailbox:: yaroslavnowik@yandex.ru
+-  :mailbox:: [Email](yaroslavnowik@yandex.ru)
 -  :calling:: https://t.me/iKodzima
 -  :pencil:: https://www.linkedin.com/in/yaroslav-novik
 -  :telephone:: 052-3090149
