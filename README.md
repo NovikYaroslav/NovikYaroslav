@@ -19,6 +19,8 @@
 -  :pencil:: [LinkedIn](https://www.linkedin.com/in/yaroslav-novik)
 -  :telephone:: 052-3090149
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?NovikYaroslav=vn7n24fzkq&theme=github_dark)
+
 <!---
 NovikYaroslav/NovikYaroslav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
