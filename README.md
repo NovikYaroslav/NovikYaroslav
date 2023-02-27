@@ -15,8 +15,8 @@ Technologies:
 
 My contacts: 
 -  :mailbox:: [Email](yaroslavnowik@yandex.ru)
--  :calling:: https://t.me/iKodzima
--  :pencil:: https://www.linkedin.com/in/yaroslav-novik
+-  :calling:: [Telegram](https://t.me/iKodzima)
+-  :pencil:: [LinkedIn](https://www.linkedin.com/in/yaroslav-novik)
 -  :telephone:: 052-3090149
 
 <!---
