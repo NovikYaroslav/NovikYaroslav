@@ -19,7 +19,7 @@
 -  :pencil:: [LinkedIn](https://www.linkedin.com/in/yaroslav-novik)
 -  :telephone:: 052-3090149
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovikYaroslav&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovikYaroslav&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NovikYaroslav&theme=2077)
 
 <!---
