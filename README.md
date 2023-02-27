@@ -5,7 +5,7 @@ About me:
 
 Technologies:
 - 🌱 My current stack: HTML/CSS/JS/REACT/NODE.JS.
-(https://github.com/{NovikYaroslav}/{NovikYaroslav}/raw/{main}/NovikYaroslav}/html-5.svg)
+![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/html-5.svg)
 
 My contacts: 
 -  :mailbox:: yaroslavnowik@yandex.ru
