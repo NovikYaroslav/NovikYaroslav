@@ -5,12 +5,12 @@
 
 # My current stack:
 
-![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/html-5.svg)
-![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/css-3.svg)
-![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/javascript.svg)
-![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/typescript.svg)
-![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/react.svg)
-![Image alt](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/node-js.svg)
+![html5](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/html-5.svg)
+![css3](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/css-3.svg)
+![javascript](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/javascript.svg)
+![typescript](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/typescript.svg)
+![react](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/react.svg)
+![nodejs](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/node-js.svg)
 
 # My contacts: 
 -  :mailbox:: [Email](yaroslavnowik@yandex.ru)
