@@ -17,6 +17,7 @@
 -  :calling:: [Telegram](https://t.me/iKodzima)
 -  :pencil:: [LinkedIn](https://www.linkedin.com/in/yaroslav-novik)
 -  :telephone:: 052-3090149
+
 ![](https://www.codewars.com/users/NovikYaroslav/badges/large)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NovikYaroslav&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovikYaroslav&theme=github_dark)
