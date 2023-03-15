@@ -19,6 +19,7 @@
 -  :telephone:: 052-3090149
 
 
+![](https://www.codewars.com/users/NovikYaroslav/badges/large)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NovikYaroslav&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovikYaroslav&theme=github_dark)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NovikYaroslav&theme=github_dark) -->
