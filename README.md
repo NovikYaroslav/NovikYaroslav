@@ -13,7 +13,7 @@
 ![nodejs](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/node-js.svg)
 
 # My contacts: 
--  :mailbox:: [Email](yaroslavnowik@yandex.ru)
+-  :mailbox:: yaroslavnowik@yandex.ru
 -  :calling:: [Telegram](https://t.me/iKodzima)
 -  :pencil:: [LinkedIn](https://www.linkedin.com/in/yaroslav-novik)
 -  :telephone:: 052-3090149
