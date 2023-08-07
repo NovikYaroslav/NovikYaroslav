@@ -10,6 +10,7 @@
 ![javascript](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/javascript.svg)
 ![typescript](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/typescript.svg)
 ![react](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/react.svg)
+![redux](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/redux.svg)
 ![nodejs](https://github.com/NovikYaroslav/NovikYaroslav/blob/main/node-js.svg)
 
 # My contacts: 
